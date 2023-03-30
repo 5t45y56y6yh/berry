@@ -1,7 +1,7 @@
 {
-    "version":"V1.1",
+    "version":"V1.2",
     "versionIntro":"",
     "versionUrl":"",
-    "versionCode":11,
+    "versionCode":13,
     "announcement":"每月20-31停机"
 }
