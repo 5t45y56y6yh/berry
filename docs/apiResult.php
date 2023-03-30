@@ -3,5 +3,5 @@
     "versionIntro":"",
     "versionUrl":"https://www.pgyer.com/0YDv",
     "versionCode":13,
-    "announcement":"test"
+    "announcement":"每月20-30停机"
 }
