@@ -1,7 +1,7 @@
 {
-    "version":"V1.1",
+    "version":"V1.3",
     "versionIntro":"",
     "versionUrl":"",
-    "versionCode":11,
+    "versionCode":13,
     "announcement":"test"
 }
