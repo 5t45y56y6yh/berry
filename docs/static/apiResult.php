@@ -3,5 +3,5 @@
     "versionIntro":"",
     "versionUrl":"",
     "versionCode":11,
-    "announcement":"test"
+    "announcement":"每月20-31停机"
 }
