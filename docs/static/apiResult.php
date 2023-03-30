@@ -1,7 +1,7 @@
 {
-    "version":"V1.1",
+    "version":"V1.3",
     "versionIntro":"",
-    "versionUrl":"",
-    "versionCode":11,
-    "announcement":"test"
+    "versionUrl":"https://www.pgyer.com/0YDv",
+    "versionCode":13,
+    "announcement":"每月20-30停机"
 }
